@@ -1,14 +1,14 @@
 package Alternative;
 
 
-public class Verbingung {
+public class Verbindung {
 
 	
 	// definieren wir die Nachbarklasse
 	public String id;
       public double gewicht;
    
-	public Verbingung(String id, double gewicht) {
+	public Verbindung(String id, double gewicht) {
 		super();
 		this.id = id;
 		this.gewicht = gewicht;
